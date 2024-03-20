@@ -1,12 +1,12 @@
 Mental notes:
 
-change background - Sadness (___) flowers and leafs
+- change background - Sadness (___) flowers and leafs
 
-Transparency on background
+- Transparency on background
 
-no more retro effects? change title core for leafs?
+- no more retro effects? change title core for leafs?
 
 
-For the new os:
+For the new reinstall:
 
-theme oneshot / sufokia
+- theme oneshot / sufokia
