@@ -9,4 +9,4 @@ Mental notes:
 
 For the new reinstall:
 
-- theme oneshot / sufokia
+- theme oneshot / sufokia / sewerslvt
