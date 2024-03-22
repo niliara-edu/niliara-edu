@@ -6,6 +6,8 @@ Mental notes:
 
 - no more retro effects? change title core for leafs?
 
+- AJAX
+
 
 For the new reinstall:
 
